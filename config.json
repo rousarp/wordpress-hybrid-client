@@ -1,6 +1,6 @@
 {
     "api": {
-        "baseUrl": "http://yourDomain.com/wp-json",
+        "baseUrl": "http://otevrenenoviny.cz/wp-json",
         "timeout": 10000,
         "maxAttempt": 3
     },
@@ -166,8 +166,8 @@
             "windowsURL": ""
         },
         "pushNotifications": {
-            "enabled": true,
-            "baseUrl" : "http://yourDomain.com/pnfw",
+            "enabled": false,
+            "baseUrl" : "http://otevrenenoviny.cz/pnfw",
             "android": {
                 "senderID": ""
             },
